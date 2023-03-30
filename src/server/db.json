@@ -1,0 +1,12 @@
+{
+  "posts": [
+    { "id": "1", "name": "Learn React", "priority": "High", "checked": false },
+    {
+      "id": "2",
+      "name": "Learn Redux",
+      "priority": "Medium",
+      "checked": false
+    },
+    { "id": "3", "name": "Learn RTK", "priority": "Low", "checked": false }
+  ]
+}
